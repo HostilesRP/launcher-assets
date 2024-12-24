@@ -9,4 +9,4 @@
   - Added server shop categories items
 
 <!-- add image bellow url -->
-![image](https://github.com/westside-roleplay/wsrp-launcher-assets/change-logs-imgs/0.0.2.png)
+![image](https://raw.githubusercontent.com/WSroleplay/wsrp-launcher-assets/change-logs-imgs/0.0.2.jpg)
