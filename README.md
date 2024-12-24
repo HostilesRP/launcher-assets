@@ -1,1 +1,1 @@
-# wsrp-music
+# westside roleplay assets
