@@ -22,3 +22,6 @@ these change logs are in place now for any issues contact support
   - Added server shop categories
   - Added server shop categories items
 
+- Patch 0.0.0
+  - added server news
+  - added server shop
