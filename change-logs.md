@@ -2,7 +2,7 @@
 
 these change logs are in place now for any issues contact support
 
-### 12/24/2024
+## 12/24/2024
 - Patch 0.0.2
   - Added server news
   - Added server shop
