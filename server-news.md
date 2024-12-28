@@ -11,7 +11,3 @@ This page will contain **daily server news**
 ### houses available for sale in our website
 
 
-```lua
-local t = 10
-print(t)
-```
