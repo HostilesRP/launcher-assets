@@ -2,27 +2,11 @@
 
 these change logs are in place now for any issues contact support
 
-### Patch 0.0.2 12/24/2024
+#### Patch 0.0.1 01/08/2025
 
-- Stables
-  - Added server news
-  - Added server shop
-  - Added server shop items
-  - Added server shop `categories`
-  - Added server shop categories items
-
-- Wagons
-  - added more wagons
-  - reduced prices  
-
-![image](https://raw.githubusercontent.com/WSroleplay/wsrp-launcher-assets/main/change-logs-imgs/0.0.2.jpg)
-
-#### Patch 0.0.1 12/24/2024
-
-- Shops
-  - Added server news
-  - Added server shop
+- Voice
+  - team speak detection was added, if you are not connected to team speak a message will be displayed on your screen, then you have 1 minute to connect until you get kicked.
   
 - Herbalist
-  - added more herbs
-  - added more ginseng
+  - added max skills to level 5
+
