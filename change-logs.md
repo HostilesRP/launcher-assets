@@ -10,6 +10,14 @@ these change logs are in place now for any issues contact support
   - Shops and deliveries have closing times
   - if players don't complete the delivery they will pay half of the pay out because they lost the goods.
 
+- Shops
+  - ability to use own wagon in deliveries
+  - deliveries have xp and player can win a tradesman license that unlocks for wagons
+
+- Game    
+  - Add animations and sounds to church bells at designated times
+  - removed abillity cards above the ammo  
+
 ### Patch 0.0.2 01/12/2025
 
 - launcher
